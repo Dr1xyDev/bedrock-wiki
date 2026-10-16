@@ -31,6 +31,7 @@ mentions:
     - KoshakMineDEV
     - MEFRREEX
     - Snowiiii
+    - Dr1xyDev
 description: Software for Bedrock servers.
 ---
 
